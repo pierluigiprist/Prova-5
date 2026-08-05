@@ -1,0 +1,7 @@
+streamlit>=1.30.0,<1.62.0
+pandas>=2.0.0
+google-auth>=2.22.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.95.0
+starlette<1.4.0
